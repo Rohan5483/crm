@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rohan\\source\\repos\\CRM Customer Relationship Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF18446-1A36-47E2-B1C2-C9396F82F72C}|CRM Customer Relationship Management System\\CRM Customer Relationship Management System.csproj|c:\\users\\rohan\\source\\repos\\crm customer relationship management system\\crm customer relationship management system\\models\\customer.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DFF18446-1A36-47E2-B1C2-C9396F82F72C}|CRM Customer Relationship Management System\\CRM Customer Relationship Management System.csproj|solutionrelative:crm customer relationship management system\\models\\customer.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\rohan\\source\\repos\\CRM Customer Relationship Management System\\CRM Customer Relationship Management System\\Models\\Customer.edmx",
+              "RelativeDocumentMoniker": "CRM Customer Relationship Management System\\Models\\Customer.edmx",
+              "ToolTip": "C:\\Users\\rohan\\source\\repos\\CRM Customer Relationship Management System\\CRM Customer Relationship Management System\\Models\\Customer.edmx [Diagram1]",
+              "RelativeToolTip": "CRM Customer Relationship Management System\\Models\\Customer.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-03T07:19:52.58Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
